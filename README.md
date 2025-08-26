@@ -7,11 +7,9 @@
 ---
 
 ## 🚀 Tecnologias e Experiências
-- **Bancos de Dados**: PL/SQL (Oracle), Firebird  
-- **Desenvolvimento Backend**: Procedures, Triggers, Consultas Personalizadas  
-- **Automação e Regras de Negócio**: Eventos em tela com Delphi  
-- **Mobile**: Kotlin (desenvolvimento Android)  
-- **Linguagens que amo estudar**: ☕ Java ❤️  
+- **Bancos de Dados**: PL/SQL (Oracle), Firebird (Procedures, Triggers, Consultas Personalizadas)  
+- **Desenvolvimento Backend**: Delphi, Java    
+- **Mobile**: Kotlin (desenvolvimento Android)   
 
 ---
 
